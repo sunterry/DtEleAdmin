@@ -16,6 +16,12 @@ npm run dev
 npm run build
 ```
 
+
+### Compiles and minifies for test
+```
+npm run stage
+```
+
 ### Lints and fixes files
 ```
 npm run lint
