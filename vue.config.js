@@ -5,7 +5,7 @@ const resolve = dir => {
 }
 
 module.exports = {
-  baseUrl: '',
+  baseUrl: '/',
   outputDir: process.env.outputDir,
   assetsDir: 'static',
   lintOnSave: process.env.NODE_ENV !== 'production' ? 'error' : false,
