@@ -164,6 +164,11 @@ export default {
     flex-direction: column;
     background: #f5f7f9;
   }
+  .dt-aside {
+    min-height: 100vh;
+    background: #515a6e;
+    overflow-x: hidden;
+  }
   .dt-header {
     width: 100%;
     background: #fff;

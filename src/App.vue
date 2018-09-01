@@ -10,7 +10,7 @@
   }
   html,body{
     @extend .size;
-    overflow: hidden;
+    min-height: 100vh;
     margin: 0;
     padding: 0;
   }
