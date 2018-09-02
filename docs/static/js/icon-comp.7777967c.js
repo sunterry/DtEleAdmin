@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["icon-comp"],{"0ac4":function(n,c,o){"use strict";var e=o("1234"),i=o.n(e);i.a},1234:function(n,c,o){},"1a8a":function(n,c,o){"use strict";o.r(c);var e=function(){var n=this,c=n.$createElement,o=n._self._c||c;return o("div",[n._v("iconComp")])},i=[],t={name:"icon-comp"},a=t,u=(o("0ac4"),o("2877")),p=Object(u["a"])(a,e,i,!1,null,"58d8d81a",null);p.options.__file="icon-comp.vue";c["default"]=p.exports}}]);
+//# sourceMappingURL=icon-comp.7777967c.js.map

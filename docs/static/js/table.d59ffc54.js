@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["table"],{"8a68":function(e,n,t){"use strict";t.r(n);var l=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[e._v("\n  table\n")])},a=[],s={name:"tables"},u=s,i=t("2877"),o=Object(i["a"])(u,l,a,!1,null,null,null);o.options.__file="tables.vue";n["default"]=o.exports}}]);
+//# sourceMappingURL=table.d59ffc54.js.map

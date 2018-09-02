@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["params"],{b8da:function(a,e,n){"use strict";n.r(e);var r=function(){var a=this,e=a.$createElement,n=a._self._c||e;return n("div",[n("h2",[a._v("ID: "+a._s(a.$route.params.id))])])},s=[],t={name:"argu_page"},u=t,p=n("2877"),i=Object(p["a"])(u,r,s,!1,null,null,null);i.options.__file="params.vue";e["default"]=i.exports}}]);
+//# sourceMappingURL=params.39781494.js.map

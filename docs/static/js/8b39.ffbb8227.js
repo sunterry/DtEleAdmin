@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["8b39"],{"8b39":function(e,n,u){"use strict";u.r(n);var t=function(){var e=this,n=e.$createElement,u=e._self._c||n;return u("div",[u("h2",[e._v("ID: "+e._s(e.$route.query.id))])])},r=[],i={name:"query"},l=i,o=u("2877"),s=Object(o["a"])(l,t,r,!1,null,null,null);s.options.__file="query.vue";n["default"]=s.exports}}]);
+//# sourceMappingURL=8b39.ffbb8227.js.map
